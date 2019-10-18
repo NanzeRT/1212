@@ -1,0 +1,40 @@
+body {
+	font: 26px "Arial", sans-serif;
+	color: white;
+}
+main {
+	float: left;
+	width: 60%;
+	background: #458dde;
+	min-height: 1300px;
+}
+aside {
+	float: left;
+	width:40%;
+	background: #e560d3;
+	min-height: 1300px;
+}
+div {
+	
+	min-height: 500px;
+	border: 3px solid white;
+	border-radius: 10px;
+	margin: 10px;
+	margin-top: 20px;
+	padding: 30px;
+	padding-top: 40px;
+	min-width: 120px
+}
+.right {
+	width: 35%;
+	max-width: 200px;
+}
+.left {
+	float: right;
+	width: 55%;
+	max-width: 950px;
+	
+}
+img {
+	border-radius: 10px;
+}

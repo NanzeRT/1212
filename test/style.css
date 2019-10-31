@@ -23,7 +23,7 @@ div {
 	margin-top: 20px;
 	padding: 30px;
 	padding-top: 40px;
-	min-width: 120px
+	/*min-width: 120px;*/
 }
 .right {
 	width: 35%;
